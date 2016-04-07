@@ -13,6 +13,7 @@ My personal style guides.
 
 * [Chinese][] (hosted separately)
 * [GitHub][]
+* [Markdown][]
 
 [Android]: ./style/android.md
 [Cpp]: ./style/cpp.md
@@ -20,3 +21,4 @@ My personal style guides.
 [Python]: ./style/python.md
 [Chinese]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [GitHub]: ./style/github.md
+[Markdown]: ./style/markdown.md
