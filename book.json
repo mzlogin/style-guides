@@ -1,0 +1,9 @@
+{
+    "title": "个人风格指南",
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "mzlogin"
+        }
+    }
+}
