@@ -12,7 +12,7 @@ module\_name, package\_name, ClassName, method\_name, ExceptionName, function\_n
 
 1. 单字符名称，除了计数器和迭代器。
 2. 包 / 模块名中的连字符 (-)
-2. 双下划线开头并结尾的名称 (Python 保留，例如、_\_init\_\_)
+2. 双下划线开头并结尾的名称 (Python 保留，例如、\_\_init\_\_)
 
 **命名约定**
 
@@ -25,8 +25,8 @@ module\_name, package\_name, ClassName, method\_name, ExceptionName, function\_n
 **Python 之父 Guido 推荐的规范**
 
 | Type                       | Public               | Internal                                                                 |
-|----------------------------|----------------------|--------------------------------------------------------------------------|
-| Modules                    | lower\_with\_under   | \_lower\_with\_under
+|:---------------------------|:---------------------|:-------------------------------------------------------------------------|
+| Modules                    | lower\_with\_under   | \_lower\_with\_under                                                     |
 | Packages                   | lower\_with\_under   |                                                                          |
 | Classes                    | CapWords             | \_CapWords                                                               |
 | Exceptions                 | CapWords             |                                                                          |
