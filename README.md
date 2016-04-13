@@ -2,6 +2,8 @@
 
 My personal style guides.
 
+This has published on [GitBook](https://mzlogin.gitbooks.io/style-guides/content/).
+
 ## Coding Style Guides
 
 * [Android][]
