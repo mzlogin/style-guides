@@ -9,6 +9,7 @@ This has published on [GitBook](https://mzlogin.gitbooks.io/style-guides/content
 * [Android][]
 * [Cpp][]
 * [Java][]
+* [Node.js][]
 * [Python][]
 
 ## Others
@@ -18,9 +19,10 @@ This has published on [GitBook](https://mzlogin.gitbooks.io/style-guides/content
 * [Markdown][]
 
 [Android]: ./style/android.md
-[Cpp]: ./style/cpp.md
-[Java]: ./style/java.md
-[Python]: ./style/python.md
 [Chinese]: https://github.com/mzlogin/chinese-copywriting-guidelines
+[Cpp]: ./style/cpp.md
 [GitHub]: ./style/github.md
+[Java]: ./style/java.md
 [Markdown]: ./style/markdown.md
+[Node.js]: ./style/node.js.md
+[Python]: ./style/python.md
