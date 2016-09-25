@@ -16,6 +16,7 @@ This has published on [GitBook](https://mzlogin.gitbooks.io/style-guides/content
 
 * [Chinese][] (hosted separately)
 * [GitHub][]
+* [Life][]
 * [Markdown][]
 
 [Android]: ./style/android.md
@@ -23,6 +24,7 @@ This has published on [GitBook](https://mzlogin.gitbooks.io/style-guides/content
 [Cpp]: ./style/cpp.md
 [GitHub]: ./style/github.md
 [Java]: ./style/java.md
+[Life]: ./style/life.md
 [Markdown]: ./style/markdown.md
 [Node.js]: ./style/node.js.md
 [Python]: ./style/python.md
