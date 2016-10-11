@@ -2,7 +2,7 @@
 
 My personal style guides.
 
-This has published on [GitBook](https://mzlogin.gitbooks.io/style-guides/content/).
+This has published on <http://mazhuang.org/style-guides/index.html>.
 
 ## Coding Style Guides
 
