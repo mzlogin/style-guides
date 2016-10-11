@@ -20,3 +20,6 @@ after_script:
 branches:
     only:
         - master
+
+git:
+    depth: 3
