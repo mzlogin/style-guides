@@ -1,9 +1,20 @@
 {
     "title": "个人风格指南",
-    "plugins": ["disqus"],
+    "links": {
+        "sidebar": {
+            "Home": "http://mazhuang.org"
+        }
+    },
+    "plugins": [
+        "disqus",
+        "github"
+    ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "mzlogin"
+        },
+        "github": {
+            "url": "https://github.com/mzlogin/style-guides"
         }
     }
 }
