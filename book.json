@@ -6,14 +6,9 @@
         }
     },
     "plugins": [
-        "duoshuo",
         "github"
     ],
     "pluginsConfig": {
-        "duoshuo": {
-            "short_name": "mzlogin",
-            "theme": "default"
-        },
         "github": {
             "url": "https://github.com/mzlogin/style-guides"
         }
