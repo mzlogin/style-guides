@@ -6,12 +6,12 @@
         }
     },
     "plugins": [
-        "disqus",
+        "duoshuo",
         "github"
     ],
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "mzlogin"
+        "duoshuo": {
+            "short_name": "mzlogin"
         },
         "github": {
             "url": "https://github.com/mzlogin/style-guides"
