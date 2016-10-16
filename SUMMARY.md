@@ -9,4 +9,4 @@
 * [GitHub 活动规范](./style/github.md)
 * [Markdown 编辑规范](./style/markdown.md)
 * [中文文案排版指南](https://github.com/mzlogin/chinese-copywriting-guidelines)
-* [用回调安排生活](./style/life.md)
+* [生活方式](./style/life.md)
