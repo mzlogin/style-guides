@@ -27,6 +27,8 @@ Good: "Plugins: add vim-newplugin"
 ## 参考
 
 * [vim-galore/CONTRIBUTING.md][1]
+* [Git Commit Msg -- Karma][3]
 
 [1]: https://github.com/mhinz/vim-galore/blob/master/CONTRIBUTING.md
 [2]: https://en.wikipedia.org/wiki/Imperative_mood
+[3]: http://karma-runner.github.io/1.0/dev/git-commit-msg.html
